@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Docster Documentation
-author: DigitalMind
+name: 15 Lessons from the Berkman Fellows Program
+author: David Weinberger
 version: V 1.0
 encoding: utf-8
 defaults:
