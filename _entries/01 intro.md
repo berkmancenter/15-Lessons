@@ -1,0 +1,51 @@
+---
+sectionid: foundations
+sectionclass: h1
+title: Foundations
+number: 1000
+is-parent: yes
+---
+
+![Nesson](/img/Nesson1.jpeg)
+
+Berkman Center founder Charles Nesson (photo: arcticpenguin, 2009)
+
+"It got started around this table," recalls Prof. Charles Nesson, sitting on the porch of his house in Cambridge, Massachusetts. “Around the table were Fern—my partner and spouse—and Myles Berkman, and me. Myles agreed it would be a wonderful thing to have a center to explore and expand the Internet and society…And that was it.”
+
+It was 1995, back when Yahoo was a hand-curated listing of sites, and it was still unusual to see a business advertise its Web address. But to Prof. Nesson and that small, original Berkman cohort “it seemed obvious that we were moving into a different environment in which We the People could connect.”
+
+The Berkman Center for Internet & Society began as a seminar. “People who knew something talked together, totally informally,” recalls Prof. Nesson. That first cohort included Jonathan Zittrain and Lawrence Lessig (now the Roy L. Furman Professor of Law at Harvard Law School), soon joined by the likes of Wendy Seltzer (now at the W3C), Chris Kelly (formerly Facebook’s Chief Privacy Officer, now an investor), and Alexander MacGillivray (now Deputy US CTO).
+
+In 1995, the Center got seed money from the Provost and a private donor. “Then we got the gift from Myles,” in 1997, marking the official creation of the Center, with Prof. Jonathan Zittrain as a co-founder (Prof. Zittrain is now Faculty Chair of the Center, following a long tenure by Prof. William “Terry” Fisher.)
+
+The Fellows Program was part of the original design. “Totally key,” says Prof. Nesson. In fact, the program was a central reason for administratively forming as a center, as Prof. Zittrain explains: “From the very beginning there were people we wanted to work with who would not fit the parameters of a traditional appointment. That at the university level is what a fellowship is able to do.” Or, as Prof. Nesson puts it, “It effectively gave the Faculty Director the power to say to anyone, ‘I dub thee a fellow of the Berkman Center.’”
+
+The first fellow so dubbed was an unusual choice for an academic research center: John Perry Barlow. A Wyoming cattle rancher and poet, to the wide world he was best known as a lyricist for the Grateful Dead. But to the world of the Web, he was known as a visionary and activist for an open Internet. “John just lit me up,” says Prof. Nesson, with “a piece he wrote about copyright breaking out of its bottle….It was about the balance between the forces of openness and of closedness in a rhetorical environment.” Prof. Nesson reflects for a moment. “I could see that we shared a vision.”
+
+Barlow’s activism deeply appealed to Prof. Nesson. “It was clear that what we were talking about did not exist yet,” and thus needed willing hands as well as inquisitive minds. “The academic idea of sitting back and observing was inadequate to it.”
+
+That presented a challenge that the Center is still cognizant of: balancing the open-mindedness of a scholarly research center with the activist’s willingness to commit to a position – “scholarship with impact,” as the Center’s mission statement puts it. “Complete openness means you live in a desert,” says Prof. Nesson, “and complete closedness means you live in a cave.”
+
+With the initial fellows, and especially under the influence of Jonathan Zittrain, the Center at first focused primarily on projects that required writing software to gather research. “Originally it was Zittrain and [Ben] Edelman building something to see how China saw the Net,” says Prof. Nesson, “and therefore we could see China by seeing what they censored.” The original set of faculty and fellows “was incredibly productive of things that make a difference in the world,” he says, using Creative Commons as another example.
+
+Prof. Zittrain points to some other early fellows to illustrate what the early days were like. Andrew McLaughlin “had an interest in working on Internet issues, but was not interested in pursuing an academic career.” After a stint at Google and in the White House, McLaughlin went on to become the CEO of both Digg and Instapaper. Molly Van Houweling did want to become an academic, and went on to a career at the University of Michigan Law School and then UC Berkeley. Wendy Seltzer has been an activist, software developer, and law professor, and is still involved with the Chilling Effects (Lumen) project that she was instrumental in creating during her years as a fellow. Andrew Shapiro wrote The Control Revolution mainly while a fellow and has gone on to be a strong voice in the business community for environmental activism. Joseph Reagle did early work on the intersection of computer agents, social protocols, Internet culture, and democratic/anarchist principles, and went on to teach at Northeastern University and write about online and geek culture. As for John Perry Barlow, Prof. Zittrain says, “He’s a great example of an individual fellow who would come roaring into town every so often, stir the pot wonderfully, and then be off to his other adventures.”
+
+Although the evolution of the Fellows program has been continuous, Profs. Nesson and Zittrain think it can be divided into something like eras.
+
+Prof. Zittrain characterizes 1998-2002 as a time of “individual targets of opportunity”: “Young people wanting to make a mark, participate in our activities, and accelerate their careers.” Wendy Seltzer, who started at the Center in 1997, adds that the informal goal was “to find ways to associate with people and keep them around.”
+
+The next era began in 2002 when Terry Fisher became the Faculty Chair and John Palfrey was appointed Executive Director of the Center (Palfrey went on to become Head of School at Andover). Research projects became more organized and managed. The standard model for the Center became to draw up proposals, submit them to funding agencies, and then hire the staff and fellows required. “That institutionalized the process,” Prof. Nesson says. The Center grew in visibility and influence as it was able to support larger, more complex projects, many of them international in scope.
+
+Prof. Zittrain thinks of this era, running through about 2008, as “The Island of Misfit Toys,” a metaphor supplied by former fellow danah boyd, and borrowed from a 1964 stop-motion Christmas special.1 (danah went on to become a principal researcher at Microsoft’s New England Research and Development (NERD) Center, and founder of the Data & Society Research Institute.) Strong individual contributors were brought in as fellows, working on a wide range of projects primarily on their own. Colin Maclay, who came as a fellow in 2002 and became Managing Director in 2005, recalls, “Most people in that era were people we had met and wanted to hang around Berkman even though there was ostensibly an open process. “ (Maclay went on to direct the Harvard Business School’s Digital Initiative and is now part of the Fellows Advisory Board.)
+
+During this period, the fellows started to develop a strong sense of community and mutual support. They tended to be resident in Cambridge, but the building that housed the Center at that time had very limited common space.
+
+The sense of community became stronger after Ethan Zuckerman, a former fellow who started in 2003, suggested designating Tuesdays as a time when all the fellows were expected to come to the Center to hear a lunchtime guest speaker and to hang out together (Ethan went on to become the Director of the MIT Center for Civic Media and is part of the Fellows Advisory Board.) This contributed to the development of a stronger sense of fellowship in which individual contributors worked collaboratively on projects formally and informally. For example, in 2004-2005, former fellow Rebecca MacKinnon, fresh from CNN, joined with Zuckerman to create Global Voices, an international blog aggregator (MacKinnon went on to direct the Ranking Digital Rights project at the New America Foundation; Global Voices currently has 1,400 writers and publishes in 35 languages.)
+
+In 2008, the Center transitioned from a Law School initiative to an inter-faculty initiative of Harvard University as a whole. Under the leadership of Prof. Urs Gasser, the current Executive Director of the Center (who first entered the Berkman community as a fellow) the latest era has seen significant growth in the number of fellows, from about a dozen in 2003 to thirty-four in 2008 to over 50 in 2015. As Amar Ashar, the Center’s Manager of Strategic Initiatives reports, “The Fellows Program has evolved to align with the strategic priorities that Urs helped take to heart and accelerate.” This includes continuing the emphasis on international diversity and collaboration begun under Profs. Palfrey and Fisher, an increased focus on data-driven and inter-disciplinary research, and on some larger-scale projects that have entailed carefully defining roles, responsibilities, and reporting structures. At the same time, Prof. Zittrain has made “staying weird” a strategic objective—shorthand for supporting strong individual contributors whose interests might have difficulty finding a home in more traditional academic environments.
+
+This new era has also been marked by two explicit aims in the process of selecting fellows. First, the Center has increasingly required fellows to commit to being resident in Cambridge during their tenure. This was done in order to increase the interactions among the fellows and to build community.
+
+Second, the Center has focused on increasing the diversity of the fellows. It has been very successful in terms of gender: over half of the current cohort is women. The Center has made significant strides in increasing global representation, especially from Europe, Asia, and the Americas. The Center continues to work on increasing racial and geographic diversity.
+
+As Prof. Gasser says, “This is a deeply human story. It’s really about human beings.”
