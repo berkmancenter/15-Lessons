@@ -1,3 +1,10 @@
+---
+sectionclass: h2
+sectionid: Community
+parent-id: LessonsLearned
+title: Cultivate the Culture
+number: 2200
+---
 “We’re a human network first and foremost,” says Amar Ashar, Manager of Strategic Initiatives, echoing a sentiment commonly expressed at the Center.
 
 If so, then, as Executive Director Gasser asks, “How do you create a protocol, a culture, a spirit that puts the emphasis on being open, being kind, being good listeners, being engaged, being willing to learn from one another?”

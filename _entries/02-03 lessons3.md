@@ -1,3 +1,10 @@
+---
+sectionclass: h2
+sectionid: Community
+parent-id: LessonsLearned
+title: Transfer the Knowledge
+number: 2300
+---
 Many of the fellows are at the Center for one year, although some remain longer as fellows or may transition into an active faculty associate or affiliate role. Despite this, explicit steps have to be taken to transfer knowledge and culture.
 
 First is setting expectations even before the new fellows arrive. Rebecca Tabasky says:

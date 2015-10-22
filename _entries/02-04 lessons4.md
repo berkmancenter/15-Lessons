@@ -1,3 +1,10 @@
+---
+sectionclass: h2
+sectionid: Community
+parent-id: LessonsLearned
+title: Aim for Cohesive Diversity
+number: 2400
+---
 Aim for a cohesive diversity
 
 The Center is committed to diversity not only as a matter of basic fairness, but for intensely pragmatic reasons as well.
@@ -11,7 +18,6 @@ Over the past five years, the Center has succeeded in raising the percentage of 
 The Center has likewise increased international representation, a priority of Executive Director Gasser, among others. The 2015-16 cohort has a significant number of fellows coming from Central and South America, and has made some gains in representation from Africa.
 
 Rebecca Tabasky points to the often less-noticed diversity of purposes. Some fellows are aiming at careers as academics. Others are heading toward, or from, the business community, or are writing software or trade books. That means that if fellows share an interest in, say, privacy, they can collaborate unhindered by competitiveness. “The brass ring”—the prize they’re aiming at—“is different enough that they are happy if the other person gets their brass ring.”
-
 The diversity of ideas and standpoints is of course also vital. The Center maintains a culture in which contrary ideas are welcome for open debate. As a community, however, it shares not only interests and norms of discourse, but also support for the potential of the Internet to promote values roughly aligned with those of secular Western educational institutions such as Harvard: free inquiry, access to ideas, giving free reign to curiosity, equal opportunity for each to flourish, and the power of collaboration. People with other views are of course read, discussed, and invited in to give talks.
 
 This comes with the Center’s commitment to activism and to projects—software, services, events, organizations, etc.—that make a difference in the world. Primavera De Filippi, a fellow, puts it like this:

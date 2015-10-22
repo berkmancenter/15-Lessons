@@ -1,3 +1,10 @@
+---
+sectionclass: h2
+sectionid: Community
+parent-id: LessonsLearned
+title: Provide just enough structure.
+number: 2500
+---
 Berkman fellowships are offered to people who can be trusted to flourish in an atmosphere that gives them maximal freedom to explore. For this to happen, they have to “own their own experience,” as the program tells the incoming cohort. “You’re responsible for making this experience work for you.”
 
 The program nevertheless needs structure—just enough to serve as a platform to support them in their efforts. As Executive Director Gasser puts it, “The structure of the program remains a work in progress…which is a feature, not a bug.”

@@ -1,3 +1,10 @@
+---
+sectionclass: h2
+sectionid: Community
+parent-id: LessonsLearned
+title: Get Bodies in a Room
+number: 2600
+---
 Community is both a good in itself and an enabler for the sort of collaborative work that the Center favors. To enable community, the Center has concluded that some degree of residency has to be required.
 
 In its very first days, the aim of the Fellows Program was to assemble a loose cohort of individual contributors, requiring residency would have been an obstacle: you wouldn’t get a John Perry Barlow to be a fellow if it meant abandoning his ranch. That of course changed as the program scaled up.
