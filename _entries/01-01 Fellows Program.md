@@ -1,7 +1,7 @@
 ---
 sectionclass: h2
 sectionid: fellows-program
-parent-id: content
+is-parent: yes
 parent-id: foundations
 number: 1100
 title: How the Fellows Program Works
