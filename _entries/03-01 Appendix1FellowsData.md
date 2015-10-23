@@ -1,10 +1,9 @@
 ---
 sectionclass: h2
-sectionid: Appendices1  
+sectionid: appendices1  
 parent-id: appendix
-title: Appendix 1: Fellows data
+title: Appendix 1 - Fellows data
 ---
-
 
 Community Manager Rebecca Tabasky collected notes on the number and breakdown of fellows, going back to 2007, the earliest year for which records could be found. She stresses that this information is best-effort and may not be fully accurate. Also, it does not include affiliates, faculty associates, or the
 Fellows Advisory Board

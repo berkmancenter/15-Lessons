@@ -2,7 +2,7 @@
 sectionclass: h2
 sectionid: Appendices5  
 parent-id: appendix
-title: Appendix 5: Berkman '05
+title: Appendix 5 - Berkman 2005
 ---
 
 In March 2005, David Weinberger, then a first year fellow, posted on his blog the following description of the program. It is included as a viewpoint from before the Fellow- ship program had started scaling up to its present size.

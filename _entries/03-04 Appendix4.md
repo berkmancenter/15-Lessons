@@ -2,7 +2,7 @@
 sectionclass: h2
 sectionid: Appendices4
 parent-id: appendix
-title: Appendix 4: Berkman '14
+title: Appendix 4 - Berkman 2014
 ---
 
 On June 3, 2014, Sara Watson blogged about her experiences as a fellow.
