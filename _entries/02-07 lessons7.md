@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: Sociality
 parent-id: LessonsLearned
 title: Let the Sociality Emerge
-number: 2700
 ---
 The Center provides many opportunities for social engagement. But over the past three years there has been a noticeable uptick in the social occasions Berkman fellows create for themselves. The mailing list for current fellows frequently has posts organizing ad hoc social events, including outings and dinners at fellows’ residences.
 

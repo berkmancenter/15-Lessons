@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: BodiesInARoom
 parent-id: LessonsLearned
 title: Get Bodies in a Room
-number: 2600
 ---
 Community is both a good in itself and an enabler for the sort of collaborative work that the Center favors. To enable community, the Center has concluded that some degree of residency has to be required.
 

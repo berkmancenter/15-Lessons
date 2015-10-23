@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: BuildStuff
 parent-id: LessonsLearned
 title: Build Stuff
-number: 2900
 ---
 The commitment to building things—primarily software and organizations—goes back to the very origins of the Center. “Charlie [Nesson] emphasized that from the begin- ning,” says Prof. Zittrain, adding that it is a concrete way that the Center can have an impact. As fellow Sara Watson puts it, “The Berkman way is to say, ‘Let’s make some- thing happen,’ instead of just thinking about it or criticizing it.”
 Building things has at least three bene ts for the Center and the Fellows Program.

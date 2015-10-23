@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: CultivateCulture
 parent-id: LessonsLearned
 title: Cultivate the Culture
-number: 2200
 ---
 “We’re a human network first and foremost,” says Amar Ashar, Manager of Strategic Initiatives, echoing a sentiment commonly expressed at the Center.
 

@@ -1,7 +1,7 @@
 ---
 sectionclass: h2
 sectionid: Appendices3
-parent-id: Appendices
+parent-id: appendices
 title: Appendix 3: Berkman '13
 ---
 

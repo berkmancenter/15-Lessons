@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: InterestGroups
 parent-id: LessonsLearned
 title: Encourage Interest Groups
-number: 2800
 ---
 These are some of the groups created by fellows. Some have been going on for more than five years, their continuity provided by fellows who stay for more than one year. Some, like the Book Club, include former fellows years after their terms concluded.
 

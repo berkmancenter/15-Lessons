@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: CohesiveDiversity
 parent-id: LessonsLearned
 title: Aim for Cohesive Diversity
-number: 2400
 ---
 Aim for a cohesive diversity
 
