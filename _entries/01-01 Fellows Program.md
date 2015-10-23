@@ -1,9 +1,7 @@
 ---
 sectionclass: h2
 sectionid: fellows-program
-is-parent: yes
 parent-id: foundations
-number: 1100
 title: How the Fellows Program Works
 ---
 The Fellows Program is embedded in a research center at which serious scholarly work is already underway. Some of the fellows work directly on those existing projects, although most come in with their own projects. Nevertheless, there is a pervasive sense that one is living amidst persistent, high-quality research programs that provide implicit models for fellows as well as being a source of information and ideas.
