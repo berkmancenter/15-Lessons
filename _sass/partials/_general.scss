@@ -96,7 +96,7 @@ h2 {
     text-align: center;
     border-bottom: 5px solid $green;
     margin: 0 auto 20px;
-    line-height: 0.63;
+    line-height: .9;
 
     &:before {
         content: counter(h1-counter) "." counter(h2-counter) " ";
