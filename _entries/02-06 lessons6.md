@@ -1,6 +1,6 @@
 ---
 sectionclass: h2
-sectionid: Community
+sectionid: BodiesInARoom
 parent-id: LessonsLearned
 title: Get Bodies in a Room
 number: 2600
