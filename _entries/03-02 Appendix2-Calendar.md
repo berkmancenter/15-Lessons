@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: Appendices2
 parent-id: appendix
 title: Appendix 2: Calendar
-number: 3200
 ---
 
 Below is a typical year’s calendar of events and activities engaged in by the Center to select and support a cohort of fellows.

@@ -2,7 +2,6 @@
 sectionid: foundations
 sectionclass: h1
 title: Foundations
-number: 1000
 is-parent: yes
 ---
 
