@@ -3,6 +3,7 @@ sectionid: config
 sectionclass: h3
 parent-id: fellows-program  
 title: Staffing & Funding
+number: 1110
 ---
 
 The Berkman Center is led by an active board of Faculty Directors, chaired currently by Jonathan Zittrain. The Executive Director, Urs Gasser, is a faculty member who in this capacity reports to the Board.

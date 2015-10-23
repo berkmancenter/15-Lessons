@@ -1,6 +1,6 @@
 ---
 sectionclass: h1
-sectionid: appendices  
+sectionid: appendix
 is-parent: yes
 title: Appendices
 number: 3000

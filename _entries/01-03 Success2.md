@@ -3,6 +3,7 @@ sectionclass: h2
 sectionid: success2
 parent-id: foundations
 title: What Constitutes Success for the Fellows Program, the Fellow's view
+number: 1300
 ---
 The Berkman community members interviewed for this report expressed a remarkably consistent idea of what constitutes a successful fellowship from a fellow’s point of view.
 

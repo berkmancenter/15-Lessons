@@ -2,8 +2,8 @@
 sectionid: foundations
 sectionclass: h1
 title: Foundations
-is-parent: yes
 number: 1000
+is-parent: yes
 ---
 
 ![Nesson](http://griffey.github.io/15-Lessons/img/Nesson1.jpeg)
