@@ -25,7 +25,7 @@ body{
     width: calc(100% - 320px);
     position: absolute;
     right: 0;
-    
+
     @media screen and (max-width: $sidebar-collapse){
         width: 100%;
     }
@@ -65,7 +65,7 @@ section{
 h1, h2, h3, h4, h5, h6{
     text-transform: uppercase;
     font-weight: $bold;
-    line-height: 1;
+    line-height: 3;
     color: $green;
 }
 
