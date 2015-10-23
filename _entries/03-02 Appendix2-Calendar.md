@@ -1,5 +1,5 @@
 ---
-sectionclass: h1
+sectionclass: h2
 sectionid: Appendices2
 parent-id: Appendices
 title: Appendix 2: Calendar

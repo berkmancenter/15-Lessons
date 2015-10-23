@@ -1,5 +1,5 @@
 ---
-sectionclass: h1
+sectionclass: h2
 sectionid: Appendices1  
 parent-id: Appendices
 title: Appendix 1: Fellows data

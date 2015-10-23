@@ -1,5 +1,5 @@
 ---
-sectionclass: h1
+sectionclass: h2
 sectionid: Appendices5  
 parent-id: Appendices
 title: Appendix 5: Berkman '05
