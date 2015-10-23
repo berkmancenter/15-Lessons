@@ -6,7 +6,7 @@ title: What Constitutes Success for the Fellows Program, the Fellow's view
 ---
 The Berkman community members interviewed for this report expressed a remarkably consistent idea of what constitutes a successful fellowship from a fellow’s point of view.
 
-### The work
+*The work*
 
 Success consists in making progress on the project one came in with—or the version of that project that emerged over the course of the year.
 
