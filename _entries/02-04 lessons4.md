@@ -1,6 +1,6 @@
 ---
 sectionclass: h2
-sectionid: Community
+sectionid: CohesiveDiversity
 parent-id: LessonsLearned
 title: Aim for Cohesive Diversity
 number: 2400

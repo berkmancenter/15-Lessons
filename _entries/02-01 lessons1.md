@@ -1,6 +1,6 @@
 ---
 sectionclass: h2
-sectionid: Community
+sectionid: SelectCommunity
 parent-id: LessonsLearned
 title: Don't Select Fellows. Select a Community.
 number: 2100

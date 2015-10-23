@@ -1,6 +1,6 @@
 ---
 sectionclass: h2
-sectionid: Community
+sectionid: ProvideJustEnoughStructure
 parent-id: LessonsLearned
 title: Provide just enough structure.
 number: 2500

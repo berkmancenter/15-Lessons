@@ -1,7 +1,7 @@
 ---
 sectionclass: h1
-sectionid: Community
-parent-id: LessonsLearned
+sectionid: LessonsLearned
+is-parent: yes
 title: Lessons Learned
 number: 2000
 ---

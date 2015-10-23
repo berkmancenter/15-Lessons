@@ -1,6 +1,6 @@
 ---
 sectionclass: h2
-sectionid: Community
+sectionid: TransferKnowledge
 parent-id: LessonsLearned
 title: Transfer the Knowledge
 number: 2300
