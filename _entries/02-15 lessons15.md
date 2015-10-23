@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: LearnLessons
 parent-id: LessonsLearned
 title: Learn from your Lessons
-number: 21500
 ---
 From the very inception of the Berkman Center, the Fellows Program has been core to the Center’s vision.
 

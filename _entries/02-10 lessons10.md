@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: StandForSomething
 parent-id: LessonsLearned
 title: Stand for Something
-number: 21000
 ---
 “The Center is not going to take positions, and we embrace dissent.”
 

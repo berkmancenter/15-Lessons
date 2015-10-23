@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: BeHarvard
 parent-id: LessonsLearned
 title: Be Harvard
-number: 21300
 ---
 The fact that the Berkman Center is at Harvard University bestows bene ts. Most are replicable at least to some degree.
 

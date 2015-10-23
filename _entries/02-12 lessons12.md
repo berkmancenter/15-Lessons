@@ -3,7 +3,6 @@ sectionclass: h2
 sectionid: PartnerUp
 parent-id: LessonsLearned
 title: Partner Up
-number: 21200
 ---
 Fellows arrive with their own professional and personal networks. The emphasis on social bonding leads to an inevitable integration of these networks, which can be an important resource for fellows both during their term and afterwards.
 The same happens at the institutional level. The Berkman Center has been an eager and supportive partner, working with other universities, non-pro ts, governmental agencies, commercial entities, and more.
