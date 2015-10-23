@@ -1,6 +1,6 @@
 ---
 sectionclass: h1
-sectionid: Appendices  
+sectionid: appendices  
 is-parent: yes
 title: Appendices
 ---
