@@ -9,9 +9,9 @@ is-parent: yes
 
 It was 1995, back when Yahoo was a hand-curated listing of sites, and it was still unusual to see a business advertise its Web address. But to Prof. Nesson and that small, original Berkman cohort “it seemed obvious that we were moving into a different environment in which We the People could connect.”
 
-![first cohort](img/BlalockPhotography_opt.jpeg?raw=true)
-
 The Berkman Center for Internet & Society began as a seminar. “People who knew something talked together, totally informally,” recalls Prof. Nesson. That first cohort included Jonathan Zittrain and Lawrence Lessig (now the Roy L. Furman Professor of Law at Harvard Law School), soon joined by the likes of Wendy Seltzer (now at the W3C), Chris Kelly (formerly Facebook’s Chief Privacy Officer, now an investor), and Alexander MacGillivray (now Deputy US CTO).
+
+![first cohort](img/BlalockPhotography_opt.jpeg?raw=true)
 
 In 1995, the Center got seed money from the Provost and a private donor. “Then we got the gift from Myles,” in 1997, marking the official creation of the Center, with Prof. Jonathan Zittrain as a co-founder (Prof. Zittrain is now Faculty Chair of the Center, following a long tenure by Prof. William “Terry” Fisher.)
 
