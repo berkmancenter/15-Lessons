@@ -57,4 +57,4 @@ The Center’s core activities are funded by the Berkman family, Harvard Law Sch
 
 The Center does not confer degrees or offer courses for credit.
 
-![Harvard Square]({{ site.url }}/img/HSquare.jpeg "Harvard Square")
+![Harvard Square](img/HSquare.jpeg?raw=true "Harvard Square")
