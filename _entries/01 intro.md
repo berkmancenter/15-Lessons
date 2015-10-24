@@ -5,7 +5,7 @@ title: Foundations
 is-parent: yes
 ---
 
-![Charlie Nesson]({{site.baseurl}}/img/Nesson_optimized.jpg)
+![Charlie Nesson]({{site.url}}/img/Nesson_optimized.jpg)
 
 Berkman Center founder Charles Nesson (photo: arcticpenguin, 2009)
 
