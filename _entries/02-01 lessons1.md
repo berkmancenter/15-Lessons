@@ -24,5 +24,3 @@ Former Managing Director Colin Maclay attributes the initiation of this “warm 
 Certainly the screening of applicants for those who work well in communities contributes to the positive culture.
 
 As with everything else, there is a balance to be struck. While fellow Primavera De Filippi says that despite Harvard’s reputation among some, “Berkman is an extremely friendly academic environment,” some fellows think that it can veer into being too kind. For example, former fellow Kit Walsh says, “There was a time when people were being too nice to guests who were presenting what they were working on. The real criticism, constructive criticism, would happen at dinner after Fellows Hour, and the speaker might not get the benefit of that.”
-
-![Harvard Square]({{ site.baseurl }}/img/HSquare.jpeg "Harvard Square")
