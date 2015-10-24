@@ -1,5 +1,5 @@
 ---
-sectionclass: h2
+sectionclass: h1
 sectionid: resources
 is-parent: yes
 title: Resources
