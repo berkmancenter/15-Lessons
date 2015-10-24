@@ -26,7 +26,7 @@ Faculty Associates: An affiliate with a faculty appointment at another school.
 
 The Fellows Advisory Board consists of a small group of former fellows who have maintained involvement with the Center.
 
-The selection process
+**The Selection Process**
 
 Each fall, the Center puts out an open call for fellowship applications. The Center then works to get the call heard widely, asking people in its community to share the opportunity with their extended networks. Although the application site has a lot of information, including a FAQ4 page, the staff fields many questions from prospective applicants.
 
@@ -47,3 +47,14 @@ Offer letters are sent out to prospective fellows, and fellows must affirmativel
 All told, the fellowship selection process takes nearly a full academic year.
 
 Employee fellows work on a number of important projects and initiatives at the Center and help strengthen its global networks. Recent examples include a report on designing successful governance groups co-authored by staff fellow Ryan Budish as part of the Internet Governance project, a report on emerging privacy issues in K-12 education, authored by the Student Privacy project team, including project fellows Paulina Haduong and Leah Plunkett, as well as the Digitally Connected network led by fellow Sandra Cortesi in collaboration with UNICEF. Employee fellows also contribute to a National Science Foundation project on Privacy, the Municipal Fiber and Media Cloud projects, as well as the work of the Cyberlaw Clinic. In the past, fellows played key roles in the Center’s Open Access project and the Open Net Initiative.
+
+**Staffing and Funding**
+The Berkman Center is led by an active board of Faculty Directors, chaired currently by Jonathan Zittrain. The Executive Director, Urs Gas- ser, is a faculty member who in this capacity reports to the Board.
+
+There is a permanent staff of around forty. A small but signi cant staff reorganization last year established project leaders for clusters of proj- ects.
+
+The Center’s core activities are funded by the Berkman family, Harvard Law School, and the MacArthur Foundation. General support comes from foundations, non-pro ts, and governmental agencies. Individuals and corporations also contribute unrestricted gifts.
+
+The Center does not confer degrees or offer courses for credit.
+
+![Harvard Square]({{ site.baseurl }}/img/HSquare.jpeg "Harvard Square")
