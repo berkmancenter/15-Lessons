@@ -9,7 +9,7 @@ is-parent: yes
 
 Berkman Center founder Charles Nesson (photo: arcticpenguin, 2009)
 
-"It got started around this table," recalls Prof. Charles Nesson, sitting on the porch of his house in Cambridge, Massachusetts. “Around the table were Fern—my partner and spouse—and Myles Berkman, and me. Myles agreed it would be a wonderful thing to have a center to explore and expand the Internet and society…And that was it.”
+<img src="img/Nesson_optimized.jpg?raw=true" width="33%" style="padding:0px 10px 5px 0px;float:left;">It got started around this table," recalls Prof. Charles Nesson, sitting on the porch of his house in Cambridge, Massachusetts. “Around the table were Fern—my partner and spouse—and Myles Berkman, and me. Myles agreed it would be a wonderful thing to have a center to explore and expand the Internet and society…And that was it.”
 
 It was 1995, back when Yahoo was a hand-curated listing of sites, and it was still unusual to see a business advertise its Web address. But to Prof. Nesson and that small, original Berkman cohort “it seemed obvious that we were moving into a different environment in which We the People could connect.”
 
