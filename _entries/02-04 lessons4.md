@@ -4,8 +4,6 @@ sectionid: CohesiveDiversity
 parent-id: LessonsLearned
 title: Aim for Cohesive Diversity
 ---
-Aim for a cohesive diversity
-
 The Center is committed to diversity not only as a matter of basic fairness, but for intensely pragmatic reasons as well.
 
 “We’d been working on diversity for a while,” says Colin Maclay. “If you’re in Law and Technology, you’re in white male dominated fields.” The effort intensified in 2009 as the Fellows Program scaled up.
@@ -28,5 +26,3 @@ The value of an open Internet crosses political lines. As Colin Maclay happily n
 Dan Gillmor, a former fellow, says, “The Center has a mission-oriented goal which involves making sure that the Internet and its potential will survive,” while also ensuring that contrary opinions are well represented.
 
 Tabasky captures the balance when she poses the question that the Center constantly asks itself: “Are there other ways to bring in as much cohesive diversity as possible?”
-
-Cohesive diversity.
