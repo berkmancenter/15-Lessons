@@ -5,8 +5,8 @@ parent-id: appendix
 title: Appendix 4 - Berkman 2014
 ---
 
-On June 3, 2014, Sara Watson blogged about her experiences as a fellow.
-http://www.saramwatson.com/blog/the-year-at-berkman
+On June 3, 2014, Sara Watson [blogged about her experiences as a fellow](http://www.saramwatson.com/blog/the-year-at-berkman).
+
 
 **The Year at Berkman**
 As the summer ramps up, I wanted to take a moment to reflect on some of the things that made my year at Berkman. At the risk of turning this into an exercise in namedrop- ping awesomeness, I thought it was worth sharing some of my favorites for posterity, linked where resources and recordings are available.
