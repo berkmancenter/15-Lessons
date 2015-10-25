@@ -9,4 +9,4 @@ The same happens at the institutional level. The Berkman Center has been an eage
 
 This enables fellows to work on projects that the Center cannot support by itself and brings them into contact with people from a diverse range of backgrounds and ex- pertise. Indeed, the fellows are sometimes the partners: some are given fellowships because they are central to organizations and efforts the Center wants to partner with.
 
-The Global Network of Centers (NoC) takes this spirit to a meta level by networking Internet research centers around the world. Formed at a 2012 meeting at the Berkman Center convened by Executive Director Gasser,8 the NoC currently has more than  fty Internet research centers as members.
+The Global Network of Centers (NoC) takes this spirit to a meta level by networking Internet research centers around the world. Formed at a [2012 meeting at the Berkman Center convened by Executive Director Gasser](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/%5BNOC%5D%20Final%20Report%202012%20Symposium.pdf), the NoC currently has more than fifty Internet research centers as members.
