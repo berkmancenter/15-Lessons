@@ -10,9 +10,9 @@ Fellowships are for one academic year (September-May) although the term can be e
 
 There are two main types of fellowships: employee fellowships and non-employee fellowships.
 
-Employee fellows are paid a stipend to work on one of the Berkman Center’s institutional research projects or initiatives led by the Center’s faculty directors, which are the “tent poles” of the Center. They provide some persistence to the intellectual life of the Fellows Program, connecting people and ideas across different areas of the Center. Effectively, the fellowship is their ‘day job’. There are two tiers of stipends for full time employee fellows, $48,000 and $64,000, depending on the experience, expertise, and background of the fellow. The number of employee fellows each year varies depending on the needs of the Center’s projects, but typically ranges between 8-10.
+**Employee fellows** are paid a stipend to work on one of the Berkman Center’s institutional research projects or initiatives led by the Center’s faculty directors, which are the “tent poles” of the Center. They provide some persistence to the intellectual life of the Fellows Program, connecting people and ideas across different areas of the Center. Effectively, the fellowship is their ‘day job’. There are two tiers of stipends for full time employee fellows, $48,000 and $64,000, depending on the experience, expertise, and background of the fellow. The number of employee fellows each year varies depending on the needs of the Center’s projects, but typically ranges between 8-10.
 
-Non-employee fellows contribute to the research, life, and activity of the Center primarily through advancing research of their own design while in the context of the community. Non-employee fellows often have other jobs or appointments during their fellowships, while being committed to actively participating in Center activities. Non-employee fellows may contribute to and learn from the Center’s projects. Most non-employee fellows receive no direct funding or stipend through the Berkman Center, but rather have obtained funding through other means, such as an outside grant or award, a home institution, or other forms of scholarship. As the Center’s About page says, “Some fellows receive partial stipends based on the nature of their responsibilities and their relation, relevance, and application to Berkman’s funded projects.”3
+**Non-employee fellows** contribute to the research, life, and activity of the Center primarily through advancing research of their own design while in the context of the community. Non-employee fellows often have other jobs or appointments during their fellowships, while being committed to actively participating in Center activities. Non-employee fellows may contribute to and learn from the Center’s projects. Most non-employee fellows receive no direct funding or stipend through the Berkman Center, but rather have obtained funding through other means, such as an outside grant or award, a home institution, or other forms of scholarship. As the Center’s About page says, “Some fellows receive partial stipends based on the nature of their responsibilities and their relation, relevance, and application to Berkman’s funded projects.”3
 
 Fellows are expected to actively conduct research and contribute to the Center’s intellectual community. They often start with working on the research they proposed in their application, although non-employee fellows are free to modify or even replace their initial projects. There are no strict requirements for non-employee fellows’ output.
 
@@ -20,13 +20,13 @@ Fellows are expected to reside in the Cambridge area for the full term of their 
 
 There are several types of relationships that extend the community beyond the circle of current fellows, including:
 
-Affiliates: Former fellows or people with whom the Center would like to maintain a relationship.
+**Affiliates**: Former fellows or people with whom the Center would like to maintain a relationship.
 
-Faculty Associates: An affiliate with a faculty appointment at another school.
+**Faculty Associates**: An affiliate with a faculty appointment at another school.
 
-The Fellows Advisory Board consists of a small group of former fellows who have maintained involvement with the Center.
+**The Fellows Advisory Board** consists of a small group of former fellows who have maintained involvement with the Center.
 
-**The Selection Process**
+###The Selection Process###
 
 Each fall, the Center puts out an open call for fellowship applications. The Center then works to get the call heard widely, asking people in its community to share the opportunity with their extended networks. Although the application site has a lot of information, including a FAQ4 page, the staff fields many questions from prospective applicants.
 
