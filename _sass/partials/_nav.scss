@@ -1,18 +1,46 @@
-.toggle{
+.toggle {
+    text-align: center;
+    opacity: 1;
+
     &:hover{
         cursor: pointer;
         opacity: .8;
     }
-    
+}
+
+.toggle-main {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 6px 8px;
+    color: maroon;
+    background-color: $lightgray;
+    font-size: 36px;
+    line-height: 36px;
+    height: 36px;
+    z-index: 10;
+
     @media screen and (min-width: $sidebar-collapse + 1){
         display: none;
+    }
+}
+
+.toggle-close {
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 2px 4px;
+
+    &:hover{
+        color: maroon;
+        background-color: white;
     }
 }
 
 // Overview
 .overview {
     position: fixed;
-    top: 0px;
+    top: 0;
     left: 0px;
     height: 100%;
     overflow-y: auto;

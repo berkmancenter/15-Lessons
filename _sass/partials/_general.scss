@@ -13,6 +13,10 @@ body{
     max-width: 100%;
     position: relative;
     margin: 0 auto;
+
+    @media screen and (min-width: $sidebar-collapse + 1){
+        margin-top: 48px; // clear menu on small screens
+    }
 }
 
 .overview{
@@ -25,6 +29,7 @@ body{
     width: calc(100% - 320px);
     position: absolute;
     right: 0;
+    top: 0;
 
     @media screen and (max-width: $sidebar-collapse){
         width: 100%;
