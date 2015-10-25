@@ -4,15 +4,14 @@ sectionid: InterestGroups
 parent-id: LessonsLearned
 title: Encourage Interest Groups
 ---
-<ul>
-<li>**Angry Tech Salon**: reading/discussion group</li>
-<li>**Interdisciplinary cooperation**: working group</li>
-<li>**Quiet Wriot**: working in silence together</li>
-<li>**Book Club**: a critical circle of fel- lows writing books</li>
-<li>**Privacy law reading group**</li>
-<li>**Networked Storytelling**: explores “narrative experience in networked life”</li>
-<li>**Hacker culture reading group**</li>
-</ul>
+**Angry Tech Salon**: reading/discussion group
+**Interdisciplinary cooperation**: working group
+**Quiet Wriot**: working in silence together
+**Book Club**: a critical circle of fellows writing books
+**Privacy law reading group**
+**Networked Storytelling**: explores “narrative experience in networked life”
+**Hacker culture reading group**
+
 These are some of the groups created by fellows. Some have been going on for more than five years, their continuity provided by fellows who stay for more than one year. Some, like the Book Club, include former fellows years after their terms concluded.
 
 The groups work differently, depending on the participants’ intents and interests. For example, here is how the Angry Tech Salon described itself in an email to the fellows:
