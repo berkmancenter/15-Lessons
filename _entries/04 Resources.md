@@ -6,6 +6,7 @@ title: Resources & Credits
 ---
 
 [Download this report as a formatted PDF](https://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/2015-10_fellowsreportPRINT.pdf)
+
 [Original publication announcement](https://cyber.law.harvard.edu/node/99168)
 
 [Github Repository for this website](https://cyber.law.harvard.edu/node/99168), edits and updates welcome via pull request.
