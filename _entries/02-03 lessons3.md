@@ -13,14 +13,14 @@ First is setting expectations even before the new fellows arrive. Rebecca Tabask
 At least as important in setting expectations, she says, is letting applicants know that while they should expect deep rich conversation, if a topic they think is important is not being discussed they are responsible for making those discussions happen. Indeed, Tabasky stresses, fellows need to feel ownership of their experience at the Center.
 
 The Center has increased its onboarding activities over the years. In addition to the introductory materials provided, every year there is:
-<ul>
-<li>An awe-inspiring round of self-introductions on the listserv</li>
-<li>A full day community kickoff</li>
-<li>A series of Berkman 101 orientation sessions</li>
-<li>A public open house during which Berkman projects are presented in a “science fair” fashion</li>
-<li>A full day “Festival of Ideas” focused on highlighting the work of incoming fellows, as well as some bigger Center-wide research questions to which everyone can contribute thinking.</li>
-<li>Various other community-building activities that emerge throughout the year</li>
-</ul>
+
+**An awe-inspiring round of self-introductions on the listserv
+A full day community kickoff
+A series of Berkman 101 orientation sessions
+A public open house during which Berkman projects are presented in a “science fair” fashion
+A full day “Festival of Ideas” focused on highlighting the work of incoming fellows, as well as some bigger Center-wide research questions to which everyone can contribute thinking.
+Various other community-building activities that emerge throughout the year**
+
 The first Fellows Hours are traditionally spent on introductions of both new and returning fellows and their work, as well as deliberate socializing, conversation, and planning about the mode of community activities and what people want to do alone and together.
 
 Throughout the year, the staff checks in with the fellows, and does much guiding, advising, and wrangling. The faculty also make themselves available for advice and conversation.
