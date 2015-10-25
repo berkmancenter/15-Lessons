@@ -4,11 +4,6 @@ sectionid: SelectCommunity
 parent-id: LessonsLearned
 title: Don't Select Fellows. Select a Community.
 ---
-
-Don’t select fellows.
-
-Select a community.
-
 Having moved well past the “Island of Misfit Toys” phase in which fellows were generally invited to apply, the Center takes extraordinary care to choose from among the hundreds of applicants. There are far more qualified applicants than positions. So the Center selects not just individuals but a community.
 
 This means working extraordinarily hard to bring together a diverse group of people who will learn from one another, collaborate in unexpected ways, and who are likely to feel a strong commitment to the success of the others in their cohort.

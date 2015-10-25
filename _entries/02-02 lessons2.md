@@ -14,4 +14,14 @@ Certainly the screening of applicants for those who work well in communities con
 
 As with everything else, there is a balance to be struck. While fellow Primavera De Filippi says that despite Harvard’s reputation among some, “Berkman is an extremely friendly academic environment,” some fellows think that it can veer into being too kind. For example, former fellow Kit Walsh says, “There was a time when people were being too nice to guests who were presenting what they were working on. The real criticism, constructive criticism, would happen at dinner after Fellows Hour, and the speaker might not get the benefit of that.”
 
-How does the Center maintain this culture?
+**How does the Center maintain this culture?**
+
+It selects for it.
+
+It consciously communicates this to incoming fellows, especially at the onset of the year. “The early weeks are when the DNA replicates and the spirit is re-emphasized,” says Executive Director Gasser.
+
+It is modeled by the faculty, staff, and continuing fellows.
+
+The cohort moderates itself. For example, on rare occasions, one fellow may take another aside and suggest that a fellow’s perceived aggressiveness or competitiveness could be channeled into a more productive type of criticism.
+
+*Most of all, the Center’s faculty, staff and continuing fellows are aware of it and value it.*
