@@ -1,7 +1,7 @@
 full_rebuild: true
 name: 15 Lessons from the Berkman Fellows Program
-author: David Weinberger
-version: v1.1
+author:
+version:
 encoding: utf-8
 defaults:
   -
