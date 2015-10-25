@@ -7,8 +7,8 @@ title: Appendix 4 - Berkman 2014
 
 On June 3, 2014, Sara Watson blogged about her experiences as a fellow.
 http://www.saramwatson.com/blog/the-year-at-berkman
-T
-he Year at Berkman
+
+**The Year at Berkman**
 As the summer ramps up, I wanted to take a moment to reflect on some of the things that made my year at Berkman. At the risk of turning this into an exercise in namedrop- ping awesomeness, I thought it was worth sharing some of my favorites for posterity, linked where resources and recordings are available.
 
 Defending an Unowned Internet and Intelligence Gathering and the Unowned Internet: In the year after Snowden, we had some very interesting conversations about how we’re supposed to think about the fundamental principles of the internet. Only at Berkman could you have two representatives, John DeLong and Anne Neuberger, from the NSA come to talk with Yochai Benkler, Jonathan Zittrain, and Bruce Schneier in a public fo- rum about their policies and practices in an effort to start an important cultural dialog. While the session was full of careful rhetoric (it was just as informative in what they did say as in what they didn’t), it was an important step towards opening up the conversation.

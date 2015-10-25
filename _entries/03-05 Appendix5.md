@@ -7,7 +7,7 @@ title: Appendix 5 - Berkman 2005
 
 In March 2005, David Weinberger, then a first year fellow, posted on his blog the following description of the program. It is included as a viewpoint from before the Fellow- ship program had started scaling up to its present size.
 
-My life as a Berkperson
+**My life as a Berkperson**
 I struggled to make this a hard-hitting piece that rips the lid off Harvard Law’s Berkman Center for the Internet and Society. But the fact is that I’m really happy here, and my fellowship was renewed before I published this. It’s a stimulating and kind environment. So, you’ll have to make up your own snarky comments.
 
 Before I applied for a Berkman fellowship, I had to ask John Palfrey and Ethan Zuckerman, neither of whom I knew, a whole bunch of damn fool questions. I had no living sense of what it meant to be a Berkman fellow. Do you drink sherry at 4? Just how witty is the banter? Would I get a discount on ascots?

@@ -16,7 +16,7 @@ The Center recognizes that it is a tricky balance, but one worth striving for. B
 
 He points to two factors that help the Center find its balance. First, “The fellows are key. They keep us honest.” Second, “We shouldn’t forget the surrounding stakeholders: the foundations, donors, policy makers, NGOs, and partners—external voices who bring their issues to us. That creates another set of checks and balances.”
 
-###The Berkman Center's SOPA/PIPA Statement
+**The Berkman Center's SOPA/PIPA Statement**
 
 *January 18, 2012: Today, many U.S. websites are participating in a blackout in order to express their opposition to pending U.S. legislation—House Bill 3261, The Stop Online Piracy Act (SOPA) and S.968, the PROTECT IP Act (PIPA).
 The Berkman Center for Internet & Society does not take an institutional position on matters of policy. However, it encourages its faculty, fellows, staff, and community members to express their viewpoints, and invites in-depth conversations on controversial issues. Our goals are to stimulate informed analysis and to catalyze the expression of diverse opinions.

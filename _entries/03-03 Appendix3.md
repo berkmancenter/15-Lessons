@@ -19,21 +19,27 @@ In my two years as a Master’s student at the Media Lab, the inspiration and ge
 
 Berkman has been an astonishingly encouraging and positive community who have listened to me, respected me, and supported me even as a random attendee at the public events. It’s a community of energetic curiosity, passionate action, and mutual support. Those are the qualities that motivated me to apply to be a Berkman fellow.
 
-What Do I Do At Berkman?
+**What Do I Do At Berkman?**
+
 In a given week, I spend all Tuesday at Berkman, concluding in a wonderful dinner conversation with other fellows. Since I’m based at MIT, I welcome fellows at the Media Lab and sometimes visit Berkman for a meet- ing or special event. I also try to make it to pub nights organised by other fellows. More formally, I:
 Co-facilitate the cooperation working group with Brian Keegan. We read each oth- er’s papers, offer feedback on projects, review literature, and discuss new research on cooperation and peer production, every Tuesday at 5pm. Join us! Blog talks and participate in discussions
+
 Participate in the MediaCloud project in small ways by linking them up with re- searchers and contributing code from time to time With Kate, Andy, and Kit, we created a January term crash course for coders, start- ups, & civic hackers to learn basics about legal issues & concerns for makers.
+
 Link Berkman fellows with networks & resources in the Boston area, especially among makers and computer scientists. I connected one fellow with researchers who could offer insight on his upcoming startup. I am offering other fellows feed- back and suggestions on research methods. I host international experts to share their work at Berkman and enrich our connection to areas like computational social science (example).
+
 Occasionally facilitate transatlantic research partnerships and participate in conver- sations between researchers in the Berkman network and startups. I’m hardly the only person doing this kind of thing at Berkman.
 
-Q&A
+**Q&A**
+
 Do You Have to Propose a Grand Project?
 Jeff Swift asked on Twitter about my driving proj- ect and next big thing for me. I don’t have one. Some of the fellows are working on their books or setting up their next startup. As a first-year PhD student, I’m building the network and  growing the conversation around the next four years of my work. Facilitation and net- work building are much less flashy, but they’re valued activities at Berkman.
 
 Okay, but what are you actually working on? I’m finishing up work to measure gender representation in online media at a large scale. I’m continuing my work on acknowl- edgement online. I’m starting a research project on Space Teamwith the cooperation working group. I made a bot. One of my year-long goals is to strengthen the role of technology makers, computer scientists, and computational social scientists at Berkman. Email me if you want to work together on something!
 
-What do you wish you’d known before you applied? I already had a good understanding of Berkman before I applied. I think other fellows didn’t realise how much the fellowship is up to fellows themselves -- we create our own infrastructure, our own year program, and take responsibility for our own journey. Berkman usually doesn’t offer funds, can’t offer official Harvard access beyond libraries, and can’t usually sponsor visas. And yet the followship works amazingly well for people who invest time into the fellowship, articulate their interests, and take initiative with the conversations and resources avail- able.
-update 3 Dec: Rebecca Tabasky writes, “we do sponsor visas for people who’re eligi- ble.”
+What do you wish you’d known before you applied? I already had a good understanding of Berkman before I applied. I think other fellows didn’t realise how much the fellowship is up to fellows themselves -- we create our own infrastructure, our own year program, and take responsibility for our own journey. Berkman usually doesn’t offer funds, can’t offer official Harvard access beyond libraries, and can’t usually sponsor visas. And yet the followship works amazingly well for people who invest time into the fellowship, articulate their interests, and take initiative with the conversations and resources available.
+
+update 3 Dec: Rebecca Tabasky writes, “we do sponsor visas for people who’re eligible.”
 
 Berkman Patterns
 Here are some patterns I’ve observed while at Berkman:
