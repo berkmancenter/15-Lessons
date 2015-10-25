@@ -4,7 +4,7 @@ sectionid: success
 parent-id: foundations
 title: What Constitutes Success for the Fellows Program, the Center's view
 ---
-![23 Everett Street](img/Berkman_Center_opt.jpeg?raw=true)
+<img src="img/Berkman_Center_opt.jpeg?raw=true" width="100%" style="padding:0px 0px 5px 0px;float:left;" alt="Berkman Center 23 Everett Street">
 What makes a year successful from a fellow’s point of view is not necessarily the same as what makes the Fellows Program a success from the Center’s point of view. We will consider each separately, although they of course overlap.
 
 Indeed, Executive Director Urs Gasser considers the overlap to be at the heart of the Fellows Program: “At the highest level, the way I look at it, the program is successful if over time we can keep some sort of symbiotic balance between what the fellows give to the Center and what they receive from it.”

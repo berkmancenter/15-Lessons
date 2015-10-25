@@ -4,6 +4,7 @@ sectionclass: h2
 title: How the Fellows Program Works
 parent-id: foundations
 ---
+![Harvard Square](img/HSquare.jpeg?raw=true "Harvard Square")
 The Fellows Program is embedded in a research center at which serious scholarly work is already underway. Some of the fellows work directly on those existing projects, although most come in with their own projects. Nevertheless, there is a pervasive sense that one is living amidst persistent, high-quality research programs that provide implicit models for fellows as well as being a source of information and ideas.
 
 Fellowships are for one academic year (September-May) although the term can be extended, especially if the fellow is working on a multi-year institutional project. Harvard University does not permit fellowships to be extended indefinitely.
@@ -28,7 +29,7 @@ There are several types of relationships that extend the community beyond the ci
 
 **The Fellows Advisory Board** consists of a small group of former fellows who have maintained involvement with the Center.
 
-###The Selection Process###
+**The Selection Process**
 
 Each fall, the Center puts out an open call for fellowship applications. The Center then works to get the call heard widely, asking people in its community to share the opportunity with their extended networks. Although the application site has a lot of information, including a FAQ4 page, the staff fields many questions from prospective applicants.
 
@@ -58,5 +59,3 @@ There is a permanent staff of around forty. A small but signi cant staff reorgan
 The Center’s core activities are funded by the Berkman family, Harvard Law School, and the MacArthur Foundation. General support comes from foundations, non-pro ts, and governmental agencies. Individuals and corporations also contribute unrestricted gifts.
 
 The Center does not confer degrees or offer courses for credit.
-
-![Harvard Square](img/HSquare.jpeg?raw=true "Harvard Square")
