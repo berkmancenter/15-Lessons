@@ -5,15 +5,18 @@
     </head>
 
     <body>
+        <div class="toggle toggle-main" role="button" aria-label="navigation menu" aria-controls="overview" aria-expanded="false">
+            &#9776;
+        </div>
+
         <div class="container">
-            <div class="overview">
-                <span class="toggle">close</span>
+            <div class="overview" role="navigation">
+                <span class="toggle toggle-close">&times; close</span>
                 {% include header.html %}
                 {% include nav.html %}
             </div>
 
             <div class="content">
-                <span class="toggle">menu</span>
                 {{ content }}
             </div>
         </div>
