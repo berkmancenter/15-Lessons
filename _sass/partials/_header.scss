@@ -4,7 +4,7 @@ header{
         repeat: repeat;
         color: $mortar;
     }
-    height: 150px;
+    height: 200px;
     text-align: center;
     position: relative;
     max-width: 100%;
@@ -12,7 +12,7 @@ header{
     span{
         position: absolute;
         top: 50%;
-        left: 50%;
+        left: 45%;
         -webkit-transform: translate(-50%, -50%);
             -ms-transform: translate(-50%, -50%);
                 transform: translate(-50%, -50%);
