@@ -26,7 +26,7 @@ Solicit from current community: 1) an update to be sent over listservs to everyo
 Continue to review new applications and conduct interviews and reference checks (planning for next year’s community)
 
 **March**
-Finalize selection of new fellows, propose to the Board of Directors for approval (plan- ning for next year’s community) Finalize selection of reappointments of current community members (current community / planning for next year’s community)
+Finalize selection of new fellows, propose to the Board of Directors for approval (planning for next year’s community) Finalize selection of reappointments of current community members (current community / planning for next year’s community)
 
 **April**
 Send offer letters to new and returning community members (current community / planning for next year’s community) Send thank you letters to community members becoming alumni (current community) Begin to work through acceptances of offers, including calls and discussions

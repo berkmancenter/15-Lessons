@@ -16,11 +16,11 @@ The impact of the program goes beyond the effect of institutional projects like 
 
 Creative Commons is an example of another criterion of success: the Center’s willingness to let ideas grow and fail: “Creative Commons gestated here and went through some transitions,” Prof. Zittrain points out. “In some ways, it failed several times before it succeeded.”
 
-The willingness to take risks means, he says, that “you have to look at the portfolio” to assess the success of the Fellows Program as a source of research and development. “Some projects don’t pay out for  ve or six years.”
+The willingness to take risks means, he says, that “you have to look at the portfolio” to assess the success of the Fellows Program as a source of research and development. “Some projects don’t pay out for five or six years.”
 
 **Quality of research**
 
-The Center has high standards for the quality of the research it pursues as an institution and the research done by its fellows. That research can take many forms. Rob Faris, the Center’s Research Director, says, “As with many other aspects of the Center, its definition and practice of research challenges traditional boundaries. It encompasses traditional academic methods and approaches, but it also includes experimental approaches, tool-building, and a willingness to take on novel and risky areas of inquiry.” He adds, “The  ow of ideas between fellows and the core research teams productively blurs the lines between them, which brings together rigorous methodologies and fresh approaches and perspectives.”
+The Center has high standards for the quality of the research it pursues as an institution and the research done by its fellows. That research can take many forms. Rob Faris, the Center’s Research Director, says, “As with many other aspects of the Center, its definition and practice of research challenges traditional boundaries. It encompasses traditional academic methods and approaches, but it also includes experimental approaches, tool-building, and a willingness to take on novel and risky areas of inquiry.” He adds, “The flow of ideas between fellows and the core research teams productively blurs the lines between them, which brings together rigorous methodologies and fresh approaches and perspectives.”
 
 Faris says, “The Center is defined by its research. And the active involvement of the fellows community makes it unique.”
 
