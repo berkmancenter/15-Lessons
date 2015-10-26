@@ -9,4 +9,4 @@ Rebecca Tabasky points out, “there isn’t one full-time person whose sole res
 
 The staff houses much of the institutional wisdom, including keeping up with the ever-growing informal network of former fellows. Amar Ashar, Manager of Strategic Initiatives, says it’s crucial to know who is working on what. “I make a concerted effort to talk with every fellow so I know what they’re doing.”
 
-Tabasky began at the Center in 2006 as a staff assistant working at the front desk. Ashar began in 2007 as a Program Coordinator. Berkman’s commitment to staff respect and advancement are a critical part of maintaining a sense of continuity and involve- ment with the Center’s Fellows Program.
+Tabasky began at the Center in 2006 as a staff assistant working at the front desk. Ashar began in 2007 as a Program Coordinator. Berkman’s commitment to staff respect and advancement are a critical part of maintaining a sense of continuity and involvement with the Center’s Fellows Program.

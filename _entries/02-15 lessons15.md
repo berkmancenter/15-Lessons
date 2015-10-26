@@ -10,7 +10,7 @@ The program has transformed itself several times, each iteration succeeding beyo
 
 + A set of values consistent with the phenomenon the Center studies. A culture that embodies those values.
 
-+ A community that forms itself around that culture—but only because enormous atten- tion has been paid to enabling that community to form and reform every year.
++ A community that forms itself around that culture—but only because enormous attention has been paid to enabling that community to form and reform every year.
 
 + A sense of perspective that remembers the human elements, including commitment, supportiveness, spontaneity, emergence, kindness, and fun.
 

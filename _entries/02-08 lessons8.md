@@ -18,7 +18,7 @@ The groups work differently, depending on the participants’ intents and intere
 
 ATS is a discussion group that attempts to encourage high quality conversation by putting theorists in contact with recent events. We pick a weekly theme, read academic papers and popular press articles, and talk about how they interrelate. The ‘angry’ in Angry Tech Salon is a joke. So is the ‘tech’ and the ‘salon’. We’re really in to: calming (critical?) conversations about contemporary culture.
 
-Sara W and Tim M are the conveners, but generally every week someone new takes re- sponsibility for picking the readings and facilitating the discussion. Since this is the  rst week of Season Two, Sara & Tim will take care of leading it and as a group we’ll pick out topics for the rest of the term.
+Sara W and Tim M are the conveners, but generally every week someone new takes responsibility for picking the readings and facilitating the discussion. Since this is the first week of Season Two, Sara & Tim will take care of leading it and as a group we’ll pick out topics for the rest of the term.
 Everyone is welcome. We ask only that you read the mandatory readings below.
 
 The Cooperation Workshop, another highly successful group, is a bit more formal in its structure:
