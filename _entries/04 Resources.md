@@ -9,7 +9,7 @@ title: Resources & Credits
 
 [Original publication announcement](https://cyber.law.harvard.edu/node/99168)
 
-[Github Repository for this website](https://cyber.law.harvard.edu/node/99168), edits and updates welcome via pull request.
+[Github Repository for this website](https://github.com/griffey/15-Lessons/), edits and updates welcome via pull request.
 
 Adapted for the web by 2015-2016 Berkman Fellows [Jason Griffey](http://jasongriffey.net) with help from [Matthew Zagaja](http://www.zagaja.com).
 
