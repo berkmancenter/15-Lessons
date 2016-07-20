@@ -1,6 +1,6 @@
 ---
 sectionclass: h2
-sectionid: Appendices2
+sectionid: appendices2
 parent-id: appendix
 title: Appendix 2 - Calendar
 ---

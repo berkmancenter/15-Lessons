@@ -4,6 +4,7 @@ sectionid: resources
 is-parent: yes
 title: Resources & Credits
 ---
+[Announcement of 2016-2017 Fellows Class](https://cyber.law.harvard.edu/newsroom/2016_2017_community)
 
 [Download this report as a formatted PDF](https://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/2015-10_fellowsreportPRINT.pdf)
 

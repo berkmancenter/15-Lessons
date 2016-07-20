@@ -1,11 +1,11 @@
 ---
 sectionclass: h2
-sectionid: Appendices3
+sectionid: appendices3
 parent-id: appendix
 title: Appendix 3 - Berkman 2013
 ---
 
-On December 3, 2013, fellow Nate Matias posted about his experiences under the title “Why you should apply to be a Berkman fellow.” Its use of animated gifs means it does not translate well to this report. You are [encouraged to see it in its original glory](https://civic.mit.edu/blog/natematias/why-you-should-apply-to-be-a-berkman-fellow). 
+On December 3, 2013, fellow Nate Matias posted about his experiences under the title “Why you should apply to be a Berkman fellow.” Its use of animated gifs means it does not translate well to this report. You are [encouraged to see it in its original glory](https://civic.mit.edu/blog/natematias/why-you-should-apply-to-be-a-berkman-fellow).
 
 You should apply to be a Berkman Fellow next year, especially if you’re a designer, computer scientist, or researcher of technology. There’s one week remaining. Apply here.
 

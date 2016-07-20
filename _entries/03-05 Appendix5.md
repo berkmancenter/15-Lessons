@@ -1,6 +1,6 @@
 ---
 sectionclass: h2
-sectionid: Appendices5  
+sectionid: appendices5  
 parent-id: appendix
 title: Appendix 5 - Berkman 2005
 ---
