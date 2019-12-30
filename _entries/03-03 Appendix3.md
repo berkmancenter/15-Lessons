@@ -22,13 +22,13 @@ Berkman has been an astonishingly encouraging and positive community who have li
 **What Do I Do At Berkman?**
 
 In a given week, I spend all Tuesday at Berkman, concluding in a wonderful dinner conversation with other fellows. Since I’m based at MIT, I welcome fellows at the Media Lab and sometimes visit Berkman for a meeting or special event. I also try to make it to pub nights organised by other fellows. More formally, I:
-Co-facilitate the cooperation working group with Brian Keegan. We read each other’s papers, offer feedback on projects, review literature, and discuss new research on cooperation and peer production, every Tuesday at 5pm. Join us! Blog talks and participate in discussions
 
-Participate in the MediaCloud project in small ways by linking them up with researchers and contributing code from time to time With Kate, Andy, and Kit, we created a January term crash course for coders, startups, & civic hackers to learn basics about legal issues & concerns for makers.
-
-Link Berkman fellows with networks & resources in the Boston area, especially among makers and computer scientists. I connected one fellow with researchers who could offer insight on his upcoming startup. I am offering other fellows feedback and suggestions on research methods. I host international experts to share their work at Berkman and enrich our connection to areas like computational social science (example).
-
-Occasionally facilitate transatlantic research partnerships and participate in conversations between researchers in the Berkman network and startups. I’m hardly the only person doing this kind of thing at Berkman.
+- Co-facilitate the cooperation working group with Brian Keegan. We read each other’s papers, offer feedback on projects, review literature, and discuss new research on cooperation and peer production, every Tuesday at 5pm. Join us!
+- Blog talks and participate in discussions
+- Participate in the MediaCloud project in small ways by linking them up with researchers and contributing code from time to time
+- With Kate, Andy, and Kit, we created a January term crash course for coders, startups, & civic hackers to learn basics about legal issues & concerns for makers.
+- Link Berkman fellows with networks & resources in the Boston area, especially among makers and computer scientists. I connected one fellow with researchers who could offer insight on his upcoming startup. I am offering other fellows feedback and suggestions on research methods. I host international experts to share their work at Berkman and enrich our connection to areas like computational social science (example).
+- Occasionally facilitate transatlantic research partnerships and participate in conversations between researchers in the Berkman network and startups. I’m hardly the only person doing this kind of thing at Berkman.
 
 **Q&A**
 
@@ -44,15 +44,15 @@ update 3 Dec: Rebecca Tabasky writes, “we do sponsor visas for people who’re
 Berkman Patterns
 Here are some patterns I’ve observed while at Berkman:
 
-• The Researcher uses Berkman to grow networks with practitioners, share ideas with people outside their field, and get feedback on new projects 
-• Sociologists and Communications researchers often use this opportunity to connect more closely with tech research and develop as public intellectuals
-• Computer scientists often use this time to link their work with broader social and political issues and connect with companies that have interesting data 
-• Humanities researchers use the Berkman network and experience with copyright to bring about new technologies and online resources 
-• The Organisation Leader (or activist) uses a Berkman year to step back for some strategic thinking, get feedback from researchers, connect with funders, and figure out the next thing 
-• The Public Intellectual gets feedback from experts on upcoming projects, grows in visibility, builds networks, and develops new directions 
-• The Mediamaker, often someone with a strong interest in Internet business models, copyright, or activism, takes time to reflect strategically and grow the next project
- • The Indie is someone who’s passionate about a set of values and skills and who works through Berkman as office space, a hub, and a network 
-• The Institution Person connects with civil society, researchers, and companies to bring new perspectives to their work in government or other large institutions
+- The Researcher uses Berkman to grow networks with practitioners, share ideas with people outside their field, and get feedback on new projects
+    - Sociologists and Communications researchers often use this opportunity to connect more closely with tech research and develop as public intellectuals
+    - Computer scientists often use this time to link their work with broader social and political issues and connect with companies that have interesting data
+    - Humanities researchers use the Berkman network and experience with copyright to bring about new technologies and online resources
+- The Organisation Leader (or activist) uses a Berkman year to step back for some strategic thinking, get feedback from researchers, connect with funders, and figure out the next thing 
+- The Public Intellectual gets feedback from experts on upcoming projects, grows in visibility, builds networks, and develops new directions
+- The Mediamaker, often someone with a strong interest in Internet business models, copyright, or activism, takes time to reflect strategically and grow the next project
+- The Indie is someone who’s passionate about a set of values and skills and who works through Berkman as office space, a hub, and a network
+- The Institution Person connects with civil society, researchers, and companies to bring new perspectives to their work in government or other large institutions
 
 Some people drop in and out as they can. Others focus on their main project. Some people bounce around looking for inspiration and collaborators. Others master the art of convening events. Many Berkman fellows catch up on their reading.
 
