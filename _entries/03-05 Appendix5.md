@@ -20,7 +20,11 @@ The Berkman Center for the Internet and Society is a Center within Harvard Law. 
 
 When you apply for a fellowship, you have to state what project you want supported, and that determines what your activities will be. The site lists five project areas, each prefixed with the word “open”: Law, governance, education, commerce and content. Some of the actual projects underway are:
 
-Documenting Internet “filtering” (=censorship) by various governments Trying to increase international awareness in the blogosphere by facilitating “bridge bloggers” Encouraging and facilitating the growth of blogs in rights-challenged countries Aggregating information about all the groups aiming at establishing international governance of the Internet Building software to encourage classroom cross-discipline and cross-border conversation The Digital Media Project, looking at the legal, social and economic effects of five possible “scenarios” describing the development of digital media tech and law
+- Documenting Internet “filtering” (=censorship) by various governments
+- Trying to increase international awareness in the blogosphere by facilitating “bridge bloggers”
+- Encouraging and facilitating the growth of blogs in rights-challenged countries Aggregating information about all the groups aiming at establishing international governance of the Internet
+- Building software to encourage classroom cross-discipline and cross-border conversation
+- The Digital Media Project, looking at the legal, social and economic effects of five possible “scenarios” describing the development of digital media tech and law
 
 The Center combines research and advocacy, which is always a tough balance. While the Center doesn’t enunciate official stands on issues, it comes down consistently in favor of keeping the Internet an open space for ideas and innovation.
 
@@ -46,10 +50,11 @@ Fellowships are usually for one year.
 
 **What you get**
 
-A stipend that ranges from $0 to $42,000. (I’m way at the low end of the scale, and certainly need to keep my day job.)
- A Harvard ID that lets you use just about any of its resources
- A Harvard business card that impresses the hell out of people
-The opportunity to participate in the life of the Center No parking privileges
+- A stipend that ranges from $0 to $42,000. (I’m way at the low end of the scale, and certainly need to keep my day job.)
+- A Harvard ID that lets you use just about any of its resources
+- A Harvard business card that impresses the hell out of people
+- The opportunity to participate in the life of the Center
+- No parking privileges
 
 **The Culture**
 
