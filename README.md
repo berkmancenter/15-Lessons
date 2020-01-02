@@ -4,7 +4,7 @@
 
 Testing using the original Indesign file for the Berkman Publication "15 Lessons from the Berkman Fellows Program" as a jekyll templated website on Github
 
-Website can be viewed here: http://griffey.github.io/15-Lessons/
+Website can be viewed here: http://berkmanlessons.net/
 
 Please help make the website better by editing and submitting a pull request on the gh-pages branch. 
 
